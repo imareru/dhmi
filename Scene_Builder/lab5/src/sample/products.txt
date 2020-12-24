@@ -1,0 +1,12 @@
+1 Stool 2 15
+3 Bed 1 1000
+4 Table 6 500
+5 erge 56 434
+6 Wardrobe 1 2000
+
+4 345 345 3453
+1 qwerty 4 235
+2 qaz 2134 1231
+1 Chair 1500.00 23
+2 bed 4 3452
+1 Chair black 1500.00 2
